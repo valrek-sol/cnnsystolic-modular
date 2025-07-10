@@ -64,4 +64,4 @@ Even a small systolic array has complex control logic involving muxes, and flags
 ![Systolic array module part 1](/resources/systolicarray1wv.png "Systolic array module part 1")
 ![Systolic array module part 2](/resources/systolicarray2wv.png "Systolic array module part 2")
 
-For further details [click here](/cnnsystolic--doc--PDF.pdf).
+For further details [click here](/cnnsystolicdocPDF.pdf).
